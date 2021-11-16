@@ -1,0 +1,34 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Accounting"
+    ],
+    [
+      "Business",
+      "Finance"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "38d2d00b-39d5-3c79-d79a-99be1e3dd72a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Financial and Managerial Accounting",
+  "course_description": "15.514 is an\u00a0intensive introduction to the preparation and interpretation of financial information for investors (external users) and managers (internal users) and to the use of financial instruments to support system and project creation. The course adopts a decision-maker perspective on accounting and finance with the goal of helping students\u00a0develop a framework for understanding financial, managerial, and tax reports. 15.514 is\u00a0restricted to System Design and Management students.\n\nAcknowledgements\n----------------\n\nAcknowledgement is hereby given to Professor G. Peter Wilson for his authorship of the following content in this course:\n\n*   The Five Challenges (see Syllabus and Lecture 1)\n*   \"What Do Intel and Accountants Have in Common?\" (see Lecture 1)\n*   A Conceptual Framework for Financial Accounting (see Lecture 1)\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.514",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
